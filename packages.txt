@@ -1,0 +1,2 @@
+ffmpeg
+libx264-dev
